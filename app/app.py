@@ -1,3 +1,6 @@
+# API Endpoint https://cloud.iexapis.com/
+# https://cloud.iexapis.com//stock/{symbol}/batch
+
 from flask import Flask
 app = Flask(__name__)
 
